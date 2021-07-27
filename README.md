@@ -15,3 +15,5 @@ um título referente ao mesmo e sua descrição. Unido de botões para "Assistir
 - **v0.4.1 - Decisão de mudar a temática do projeto, mantendo o layout da Netflix, contudo utilizando da temática de
 um site para jogar games por streaming (como Google Stadia) e alterando a cor temática principal do site, dando
 início ao Cyan-o**
+
+- v.0.4.2 - Alteração da imagem referente ao jogo de capa do site
