@@ -1,5 +1,5 @@
 :root{
-    --vermelho:#e50914;
+    --ciano:#00CEF1;
     --preta:#141414;
 }
 
@@ -9,9 +9,11 @@
     box-sizing: border-box;
 }
 
+/*Elementos base*/
 body{
     background-color: var(--preta);
     font-family: 'Times New Roman', Times, serif;
+    color:white;
 }
 
 header .container{
@@ -23,7 +25,7 @@ header .container{
 
 header .logo {
     margin-left: 5px;
-    color: var(--vermelho);
+    color: var(--ciano);
     font-family: 'Arial Black';
     font-size: 40px;
 }
@@ -36,4 +38,27 @@ header nav a{
 
 header nav a:hover{
     color: #fff;
+}
+
+
+/*Jogo principal*/
+.jogo-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/Persona-Collection.jpg');
+
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.jogo-principal .descricao{
+    margin-bottom: 30px;
+}
+
+.titulo{
+ font-size: 40px;
 }
