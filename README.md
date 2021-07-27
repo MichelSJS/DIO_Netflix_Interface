@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Interface</h1>
+<h1 align="center">Netflix Interface (Cyan-o)</h1>
 
 <h3>Projeto de criação de um clone da interface da Netflix</h3>
 - v0.1 - Commit inicial e criação da base do layout para o site;
