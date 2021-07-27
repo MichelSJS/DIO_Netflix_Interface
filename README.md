@@ -11,9 +11,9 @@ os elementos de forma a deixar de acordo com o layout que é tido por base **(Ne
       
 - v0.4 - Criação dos principais elementos referente a tela principal do site, contendo à imagem do filme principal
 um título referente ao mesmo e sua descrição. Unido de botões para "Assistir" e "Mais informações";
+      
+      - v0.4.1 - Decisão de mudar a temática do projeto, mantendo o layout da Netflix, contudo utilizando da temática de
+      um site para jogar games por streaming (como Google Stadia) e alterando a cor temática principal do site, dando
+      início ao Cyan-o
 
-- **v0.4.1 - Decisão de mudar a temática do projeto, mantendo o layout da Netflix, contudo utilizando da temática de
-um site para jogar games por streaming (como Google Stadia) e alterando a cor temática principal do site, dando
-início ao Cyan-o**
-
-- v.0.4.2 - Alteração da imagem referente ao jogo de capa do site
+      - v0.4.2 - Alteração da imagem referente ao jogo de capa do site
