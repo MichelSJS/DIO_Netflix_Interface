@@ -1,6 +1,7 @@
 <h1 align="center">Netflix Interface (Cyan-o)</h1>
 
 <h3>Projeto de criação de um clone da interface da Netflix</h3>
+
 - v0.1 - Commit inicial e criação da base do layout para o site;
       
 - v0.2 - Aprendendo conceitos relacionados a Flexbox e definição de elementos HTML por caixas, 
@@ -14,6 +15,8 @@ um título referente ao mesmo e sua descrição. Unido de botões para "Assistir
       
       - v0.4.1 - Decisão de mudar a temática do projeto, mantendo o layout da Netflix, contudo utilizando da temática de
       um site para jogar games por streaming (como Google Stadia) e alterando a cor temática principal do site, dando
-      início ao Cyan-o
+      início ao Cyan-o;
 
-      - v0.4.2 - Alteração da imagem referente ao jogo de capa do site
+      - v0.4.2 - Alteração da imagem referente ao jogo de capa do site.
+
+- v0.5 - Utilização do **Fontawesome** para inserção de ícones no projeto e estilização dos botões;
