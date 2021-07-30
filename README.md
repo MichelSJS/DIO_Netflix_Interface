@@ -20,3 +20,5 @@ um título referente ao mesmo e sua descrição. Unido de botões para "Assistir
       - v0.4.2 - Alteração da imagem referente ao jogo de capa do site.
 
 - v0.5 - Utilização do **Fontawesome** para inserção de ícones no projeto e estilização dos botões;
+
+- v0.6 - Inserção inicial do Owl Carousel no código. Um plugin JQuery que facilita a criação de carrosséis na página;
