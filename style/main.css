@@ -87,3 +87,11 @@ header nav a:hover{
 .botao i{
     margin-right: 10px;
 }
+
+.container {
+    margin-left: 15px;
+}
+
+.jogo-principal .container {
+    width: 70%;
+}
