@@ -22,3 +22,10 @@ um título referente ao mesmo e sua descrição. Unido de botões para "Assistir
 - v0.5 - Utilização do **Fontawesome** para inserção de ícones no projeto e estilização dos botões;
 
 - v0.6 - Inserção inicial do Owl Carousel no código. Um plugin JQuery que facilita a criação de carrosséis na página;
+
+- v0.7 - Implementação e configuração efetiva do Owl Carousel e criação de outros arquivos para contenção dos scripts relacionados a ele;
+
+- v0.8 - Toques finais do projeto (em aula) Uso de **Media Queries** para melhor responsividade da página em diferentes aparelhos;
+
+Pretendo continuar com esse projeto, pelo menos aprimorá-lo até se tornar um site realmente bonito. Contudo ainda não faço ideia de quando sairá a "v0.9". Mas fica aí
+a informação e pendência para o futuro (e espero que um futuro próximo).
